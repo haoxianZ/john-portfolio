@@ -14,7 +14,7 @@ function App() {
         </nav>
         <div className="intro">
           <h2>Hi, I am John Zhang </h2>
-          <h3>I am a Full-Stack web developper.</h3>
+          <h3>I am a Full-Stack web developer.</h3>
           <h3>Welcome to my portfolio!</h3>
         </div>
          
@@ -31,15 +31,21 @@ function App() {
           About me
         </h2>
         <p>
-        I am a Full Stack Web Developer trained by a curriculum designed by Thinkful.
+        Hi, I’m John and I am a Web Developer with two years of material science research experience.
         </p>
         <p>
-        Throughout the curriculum, I had built a few projects to showcase the skills that I have learned. On top of web developing skill, my engineering experience also provides me solid foundation of science and data analysis.
+        In my previous roles, I conducted research to develop products according to each clients’ demand and improve current products with their feedback. Based on the specific application environment, either is under water, or requires our material to be stronger than usual, we design new materials and experiments to validate our new products . I loved the challenges come with it and the sense of accomplishment seeing our products pass the test.
+        </p>
+        <p>
+        When I began to learn about the field of Web Development, I realized that it encompassed the best part of my job, creating something based on the need, without dealing with hazardous materials. So that’s why I decided to dive right into a career change by building projects and learning cutting-edge technologies with Thinkful’s program. I’m excited to enter into this industry with my new skills and get to work right away!
+        </p>
+        <p>
+          On my free time, I love to play basketball and trying out new restaurants and recipes. 
         </p>
       </div>
       <div id="projects">
       <div className="project">
-            
+            <h2>Check out some of my works!</h2>
             <h3>What Should I make?</h3>
           <img alt="Screenshot of the App" 
           src="/whatMake.png" className="item-img"/>
@@ -72,7 +78,6 @@ function App() {
         </div>
         
       <div className="project">
-            
             <h3>Encouragement Bank</h3>
             
           <img alt="Screenshot of the App" 
@@ -134,6 +139,7 @@ function App() {
       <footer>
         <div id="contact">
             <h3>Contact me at:</h3>
+            <h3>johnhaoxian@gmail.com</h3>
             <div>
               <a target="_blank" rel="noreferrer" href="https://www.linkedin.com/in/haoxianzhang/"><AiFillLinkedin size="2em"/></a>
               <a target="_blank"  rel="noreferrer" href="https://github.com/haoxianZ"><AiFillGithub size="2em"/></a>
