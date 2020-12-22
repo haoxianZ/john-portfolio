@@ -51,8 +51,7 @@ function App() {
           <img alt="Screenshot of the App" 
           src="/whatMake2.png" className="item-img"/>
             <p>
-                A Web app that allows user to keep a log what are in their fridge and search recipes base on the ingredients they have in their fridges.
-            </p>
+            A Web app that allows the user to keep a log of what is in their fridge and to search for recipes based on the ingredients they have in their fridge.            </p>
             <div className="build">
               <h4 className="item">Built With:</h4>
             <ul className="item">
@@ -84,8 +83,7 @@ function App() {
           <img alt="Screenshot of the App" 
           src="/encouragementScreenshot.png" className="item-img"/>
             <p>
-                A Web app that allows user to write encouragements to others and in return receive encouraging notes
-            </p>
+            A Web app that allows users to write encouraging notes to other users and to also receive encouraging notes from other users!            </p>
             <div className="build">
               <h4 className="item">Built With:</h4>
             <ul className="item">
@@ -116,8 +114,7 @@ function App() {
           <img alt="Screenshot of the App" 
           src="/recipeSearch2.png" className="item-img"/>
             <p>
-                A Web app that allows user to search recipes through images.
-            </p>
+            A Web app that allows users to search for recipes via images.            </p>
             <div className="build">
               <h4>Built With:</h4>
             <ul>
