@@ -1,4 +1,3 @@
-import logo from './logo.svg';
 import React from 'react';
 import './App.css';
 import {AiFillCaretDown,AiFillLinkedin,AiFillGithub} from 'react-icons/ai';
@@ -34,7 +33,7 @@ function App() {
         Hi, I’m John and I am a Web Developer with two years of material science research experience.
         </p>
         <p>
-        In my previous roles, I conducted research to develop products according to each clients’ demand and improve current products with their feedback. Based on the specific application environment, either is under water, or requires our material to be stronger than usual, we design new materials and experiments to validate our new products . I loved the challenges come with it and the sense of accomplishment seeing our products pass the test.
+        In my previous roles, I conducted research to develop products according to each clients’ demand and improve current products with their feedback. Based on the specific application environment, either is under water, or requires our material to be stronger than usual, we design new materials and experiments to validate our new products. I loved the challenges come with it and the sense of accomplishment seeing our products pass the test.
         </p>
         <p>
         When I began to learn about the field of Web Development, I realized that it encompassed the best part of my job, creating something based on the need, without dealing with hazardous materials. So that’s why I decided to dive right into a career change by building projects and learning cutting-edge technologies with Thinkful’s program. I’m excited to enter into this industry with my new skills and get to work right away!
@@ -66,7 +65,7 @@ function App() {
             </ul>
             </div>
             
-            <a target="_blank" href="https://what-should-i-make-client.vercel.app/">Live Demo</a>
+            <a target="_blank" rel="noreferrer" href="https://what-should-i-make-client.vercel.app/">Live Demo</a>
             <br/>
             <a target="_blank" rel="noreferrer" href="https://github.com/haoxianZ/what-should-i-make-client">
               Client Side Repo
@@ -99,7 +98,7 @@ function App() {
             </ul>
             </div>
             
-            <a target="_blank" href="https://encouragement-exchange.vercel.app/">Live Demo</a>
+            <a target="_blank" rel="noreferrer" href="https://encouragement-exchange.vercel.app/">Live Demo</a>
             <br/>
             <a  target="_blank" rel="noreferrer" href="https://github.com/haoxianZ/encouraging-notes/tree/master/react-client">
               Client Side Repo
@@ -117,7 +116,7 @@ function App() {
           <img alt="Screenshot of the App" 
           src="/recipeSearch2.png" className="item-img"/>
             <p>
-                A Web app that allows user to search recipe through image
+                A Web app that allows user to search recipes through images.
             </p>
             <div className="build">
               <h4>Built With:</h4>
@@ -139,7 +138,7 @@ function App() {
       <footer>
         <div id="contact">
             <h3>Contact me at:</h3>
-            <h3>johnhaoxian@gmail.com</h3>
+            <h3><a target="_blank" rel="noreferrer" href="mailto:johnhaoxian@gmail.com">johnhaoxian@gmail.com</a></h3>
             <div>
               <a target="_blank" rel="noreferrer" href="https://www.linkedin.com/in/haoxianzhang/"><AiFillLinkedin size="2em"/></a>
               <a target="_blank"  rel="noreferrer" href="https://github.com/haoxianZ"><AiFillGithub size="2em"/></a>
